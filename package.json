@@ -1,0 +1,19 @@
+{
+  "name": "pocket-shop",
+  "version": "1.0.0",
+  "description": "Shop from your pocket",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tigercao1/pocket-shop.git"
+  },
+  "author": "Yizhang Cao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tigercao1/pocket-shop/issues"
+  },
+  "homepage": "https://github.com/tigercao1/pocket-shop#readme"
+}
