@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Rocket Shoe",
+        "price": 512.99,
+        "description": "Makes you fly with rocket boost"
+    },
+    {
+        "name": "Tee Shirt",
+        "price": 62.99,
+        "description": "Great Tee looking T-Shirt"
+    },
+    {
+        "name": "Your pants",
+        "price": 32.99,
+        "description": "Great pair of pants"
+    }
+]

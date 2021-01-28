@@ -2,8 +2,9 @@
   "name": "pocket-shop",
   "version": "1.0.0",
   "description": "Shop from your pocket",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
+    "start": "node app.js",
     "test": "npm run test"
   },
   "repository": {
@@ -15,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/tigercao1/pocket-shop/issues"
   },
-  "homepage": "https://github.com/tigercao1/pocket-shop#readme"
+  "homepage": "https://github.com/tigercao1/pocket-shop#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1"
+  }
 }
