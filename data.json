@@ -1,17 +1,32 @@
 [
     {
+        "id": 1,
+        "img_url": "https://i.ytimg.com/vi/McwZ145vwUk/maxresdefault.jpg",
         "name": "Rocket Shoe",
+        "brand": "Supreme",
+        "description": "Makes you fly with rocket boost",
+        "type": "Footwear",
         "price": 512.99,
-        "description": "Makes you fly with rocket boost"
+        "stock": 3
     },
     {
+        "id": 2,
+        "img_url": "https://media.gq-magazine.co.uk/photos/5f199836c57ab4b7bbdba74e/master/w_1920,c_limit/WHITETSHIRTUPDATE23_WEEKDAY.jpg",
         "name": "Tee Shirt",
+        "brand": "Tee",
+        "description": "Great Tee looking T-Shirt",
+        "type": "Clothing",
         "price": 62.99,
-        "description": "Great Tee looking T-Shirt"
+        "stock": 12
     },
     {
+        "id": 3,
+        "img_url": "https://media.gq.com/photos/5d3f1591ec0d3a0008509b1e/master/w_2000,h_1333,c_limit/2019-07_GQ_Best-Commuter-Pants-aether_3x2.jpg",
         "name": "Your pants",
+        "brand": "Yo",
+        "description": "Great pair of pants",
+        "type": "Clothing",
         "price": 32.99,
-        "description": "Great pair of pants"
+        "stock": 5
     }
 ]
